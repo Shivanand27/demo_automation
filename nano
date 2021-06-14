@@ -6,4 +6,4 @@ int b;
 int c;
 c=a+b;
 printf(%d,$c);
-;
+
