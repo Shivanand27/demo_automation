@@ -1,1 +1,9 @@
 Welcome to git
+Appending the below line of code..
+Class op()
+int a;
+int b;
+int c;
+c=a+b;
+printf(%d,$c);
+;
